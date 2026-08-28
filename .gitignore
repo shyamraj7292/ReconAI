@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+data/*.csv
+data/ground_truth.json
+.pytest_cache/
+.streamlit/
